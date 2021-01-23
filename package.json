@@ -1,8 +1,9 @@
 {
   "name": "just-one-space",
-	"displayName": "just-one-space",
-	"description": "",
+	"displayName": "Just one space",
+	"description": "Delete all whitespaces around the cursor, leaving one.",
 	"version": "0.0.1",
+	"license": "MIT",
 	"engines": {
 		"vscode": "^1.52.0"
 	},
