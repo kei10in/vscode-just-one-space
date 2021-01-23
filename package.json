@@ -10,14 +10,14 @@
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:just-one-space.helloWorld"
+        "onCommand:just-one-space.justOneSpace"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "just-one-space.helloWorld",
-				"title": "Hello World"
+				"command": "just-one-space.justOneSpace",
+				"title": "Just One Space"
 			}
 		]
 	},
