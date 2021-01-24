@@ -5,6 +5,14 @@
   "version": "0.0.1",
   "license": "MIT",
   "publisher": "kei10in",
+  "homepage": "https://github.com/kei10in/just-one-space#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kei10in/just-one-space.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kei10in/just-one-space/issues"
+  },
   "engines": {
     "vscode": "^1.52.0"
   },
