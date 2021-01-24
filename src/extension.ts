@@ -2,7 +2,7 @@ import * as vscode from "vscode";
 
 export function activate(context: vscode.ExtensionContext) {
   context.subscriptions.push(
-    vscode.commands.registerCommand("just-one-space.justOneSpace", () => {
+    vscode.commands.registerCommand("justOneSpace.justOneSpace", () => {
       const editor = vscode.window.activeTextEditor;
 
       if (editor) {

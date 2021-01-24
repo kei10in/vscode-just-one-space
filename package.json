@@ -10,15 +10,21 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [
-    "onCommand:just-one-space.justOneSpace"
-  ],
   "main": "./out/extension.js",
+  "activationEvents": [
+    "onCommand:justOneSpace.justOneSpace"
+  ],
   "contributes": {
     "commands": [
       {
-        "command": "just-one-space.justOneSpace",
+        "command": "justOneSpace.justOneSpace",
         "title": "Just One Space"
+      }
+    ],
+    "keybindings": [
+      {
+        "command": "justOneSpace.justOneSpace",
+        "key": "alt+space"
       }
     ]
   },
