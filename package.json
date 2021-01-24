@@ -5,13 +5,13 @@
   "version": "0.0.3",
   "license": "MIT",
   "publisher": "kei10in",
-  "homepage": "https://github.com/kei10in/just-one-space#readme",
+  "homepage": "https://github.com/kei10in/vscode-just-one-space#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kei10in/just-one-space.git"
+    "url": "https://github.com/kei10in/vscode-just-one-space.git"
   },
   "bugs": {
-    "url": "https://github.com/kei10in/just-one-space/issues"
+    "url": "https://github.com/kei10in/vscode-just-one-space/issues"
   },
   "engines": {
     "vscode": "^1.52.0"
